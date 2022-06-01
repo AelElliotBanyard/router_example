@@ -39,6 +39,6 @@
     ]
   },
   "overrides": {
-    "autoprefixer": "6.14.14"
+    "autoprefixer": "14.17.5"
  }
 }
